@@ -3,7 +3,11 @@ He brushes his teeth.
 He has breakfast.
 Then he...
 He goes to class.
+<<<<<<< HEAD
 Ge goes to the toilet.
 He watch youtube.
 He chat his gf.
 He is lovely bf.
+=======
+He eat maggi kari.
+>>>>>>> main
